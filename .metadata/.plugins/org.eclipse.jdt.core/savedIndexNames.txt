@@ -1,0 +1,2 @@
+INDEX VERSION 1.127+C:\Users\Mauro\Documents\Estacione Facil\.metadata\.plugins\org.eclipse.jdt.core
+2122914386.index
